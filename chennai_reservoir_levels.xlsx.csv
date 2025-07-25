@@ -1,0 +1,589 @@
+_id,ORG_ID,WATER_SUPPLIER_NAME,WORKSHEET_NAME,REVIEWED_BY_DWR,REQUIREMENTS_ADDRESSED,WP_WUEDATA_PLAN_ID,YEAR_TYPE,TOTAL_TYPE,TOTAL_VOLUME_2020_AF,TOTAL_VOLUME_2025_AF,TOTAL_VOLUME_2030_AF,TOTAL_VOLUME_2035_AF,TOTAL_VOLUME_2040_AF
+1,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,First year,Demand totals,48000.0,52100.0,56000.0,58300.0,
+2,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Second year,Supply totals,61396.0,71396.0,70720.0,70720.0,
+3,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Second year,Demand totals,48700.0,53000.0,56600.0,58400.0,
+4,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Third year,Supply totals,64626.0,74626.0,73950.0,73950.0,
+5,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Third year,Demand totals,49900.0,53800.0,57000.0,58600.0,
+6,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,First year,Supply totals,67626.0,77626.0,76950.0,76950.0,
+7,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Fourth year (optional),Demand totals,,,,,
+8,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Fifth year (optional),Supply totals,,,,,
+9,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Fifth year (optional),Demand totals,,,,,
+10,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Sixth year (optional),Supply totals,,,,,
+11,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Sixth year (optional),Demand totals,,,,,
+12,22,Alameda County Flood Control District  Zone 7,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,981,Fourth year (optional),Supply totals,,,,,
+13,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,First year,Supply totals,56950.0,56950.0,56950.0,56950.0,
+14,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,First year,Demand totals,83680.0,85630.0,85940.0,86260.0,
+15,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Second year,Supply totals,62750.0,62750.0,62750.0,62750.0,
+16,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Second year,Demand totals,83680.0,85630.0,85940.0,86260.0,
+17,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Third year,Supply totals,74350.0,74350.0,74350.0,74350.0,
+18,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Third year,Demand totals,83680.0,85630.0,85940.0,86260.0,
+19,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Fourth year (optional),Supply totals,,,,,
+20,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Fourth year (optional),Demand totals,,,,,
+21,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Fifth year (optional),Supply totals,,,,,
+22,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Fifth year (optional),Demand totals,,,,,
+23,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Sixth year (optional),Demand totals,,,,,
+24,79,Antelope Valley - East Kern Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,419,Sixth year (optional),Supply totals,,,,,
+25,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Sixth year (optional),Demand totals,,,,,
+26,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Fifth year (optional),Supply totals,,,,,
+27,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Sixth year (optional),Supply totals,,,,,
+28,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Fifth year (optional),Demand totals,,,,,
+29,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Fourth year (optional),Demand totals,,,,,
+30,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Fourth year (optional),Supply totals,,,,,
+31,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Third year,Supply totals,17586.0,17586.0,17586.0,17586.0,17586.0
+32,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Second year,Demand totals,26265.0,26265.0,26265.0,26265.0,26265.0
+33,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Second year,Supply totals,26265.0,26265.0,26265.0,26265.0,26265.0
+34,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,First year,Demand totals,33656.0,33656.0,33656.0,33656.0,33656.0
+35,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,First year,Supply totals,33656.0,33656.0,33656.0,33656.0,33656.0
+36,123,Bakersfield  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1031,Third year,Demand totals,17586.0,17586.0,17586.0,17586.0,17586.0
+37,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,First year,Demand totals,101316.0,97728.0,100033.0,102807.0,104075.0
+38,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Second year,Supply totals,123164.0,130180.0,130749.0,130073.0,130502.0
+39,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Second year,Demand totals,101316.0,97728.0,100033.0,102807.0,104075.0
+40,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Third year,Supply totals,123164.0,130180.0,130749.0,130073.0,130502.0
+41,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Third year,Demand totals,101316.0,97728.0,100033.0,102807.0,104075.0
+42,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,First year,Supply totals,123164.0,130180.0,130749.0,130073.0,130502.0
+43,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Fourth year (optional),Demand totals,,,,,
+44,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Fifth year (optional),Supply totals,,,,,
+45,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Fifth year (optional),Demand totals,,,,,
+46,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Sixth year (optional),Supply totals,,,,,
+47,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Sixth year (optional),Demand totals,,,,,
+48,433,Calleguas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,452,Fourth year (optional),Supply totals,,,,,
+49,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Sixth year (optional),Supply totals,,,,,
+50,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Sixth year (optional),Demand totals,,,,,
+51,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,First year,Demand totals,20840.0,20840.0,20840.0,20840.0,20840.0
+52,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Second year,Supply totals,20840.0,20840.0,20840.0,20840.0,20840.0
+53,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Second year,Demand totals,20840.0,20840.0,20840.0,20840.0,20840.0
+54,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Third year,Supply totals,20840.0,20840.0,20840.0,20840.0,20840.0
+55,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Third year,Demand totals,20840.0,20840.0,20840.0,20840.0,20840.0
+56,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Fourth year (optional),Supply totals,,,,,
+57,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Fourth year (optional),Demand totals,,,,,
+58,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,First year,Supply totals,20840.0,20840.0,20840.0,20840.0,20840.0
+59,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Fifth year (optional),Demand totals,,,,,
+60,495,Casitas Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2197,Fifth year (optional),Supply totals,,,,,
+61,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Sixth year (optional),Demand totals,,,,,
+62,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Sixth year (optional),Supply totals,,,,,
+63,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Fifth year (optional),Demand totals,,,,,
+64,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Fifth year (optional),Supply totals,,,,,
+65,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Fourth year (optional),Demand totals,22750.0,27050.0,32850.0,36650.0,39350.0
+66,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,First year,Supply totals,69987.0,72078.0,83204.0,85181.0,85181.0
+67,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Third year,Demand totals,22750.0,27050.0,32850.0,36650.0,39350.0
+68,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Third year,Supply totals,69987.0,72078.0,83204.0,85181.0,85181.0
+69,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Second year,Demand totals,22750.0,27050.0,32850.0,36650.0,39350.0
+70,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Second year,Supply totals,69987.0,72078.0,83204.0,85181.0,85181.0
+71,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,First year,Demand totals,22750.0,27050.0,32850.0,36650.0,39350.0
+72,496,Castaic Lake Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1036,Fourth year (optional),Supply totals,69987.0,72078.0,83204.0,85181.0,85181.0
+73,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Fourth year (optional),Demand totals,,,,,
+74,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Fourth year (optional),Supply totals,,,,,
+75,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Third year,Demand totals,306386.0,308438.0,310849.0,310487.0,311537.0
+76,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Third year,Supply totals,307980.0,312241.0,315493.0,316737.0,317981.0
+77,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Second year,Demand totals,306386.0,308438.0,310849.0,310487.0,311537.0
+78,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Second year,Supply totals,307980.0,312241.0,315493.0,316737.0,317981.0
+79,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,First year,Demand totals,306386.0,308438.0,310849.0,310487.0,311537.0
+80,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,First year,Supply totals,307980.0,312241.0,315493.0,316737.0,317981.0
+81,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Sixth year (optional),Demand totals,,,,,
+82,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Sixth year (optional),Supply totals,,,,,
+83,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Fifth year (optional),Demand totals,,,,,
+84,510,Central Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2161,Fifth year (optional),Supply totals,,,,,
+85,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,First year,Demand totals,8849.0,8451.0,8053.0,7654.0,7256.0
+86,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Second year,Supply totals,8769.0,8371.0,7973.0,7575.0,7177.0
+87,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Second year,Demand totals,8769.0,8371.0,7973.0,7575.0,7177.0
+88,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Third year,Supply totals,8690.0,8292.0,7893.0,7495.0,7097.0
+89,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Third year,Demand totals,8690.0,8292.0,7893.0,7495.0,7097.0
+90,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,First year,Supply totals,8849.0,8451.0,8053.0,7654.0,7256.0
+91,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Fourth year (optional),Demand totals,,,,,
+92,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Fifth year (optional),Supply totals,,,,,
+93,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Fifth year (optional),Demand totals,,,,,
+94,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Sixth year (optional),Supply totals,,,,,
+95,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Sixth year (optional),Demand totals,,,,,
+96,514,Central Coast Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,273,Fourth year (optional),Supply totals,,,,,
+97,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,First year,Supply totals,40000.0,40000.0,40000.0,40000.0,40000.0
+98,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,First year,Demand totals,40000.0,40000.0,40000.0,40000.0,40000.0
+99,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Second year,Supply totals,40000.0,40000.0,40000.0,40000.0,40000.0
+100,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Second year,Demand totals,40000.0,40000.0,40000.0,40000.0,40000.0
+101,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Third year,Supply totals,40000.0,40000.0,40000.0,40000.0,40000.0
+102,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Third year,Demand totals,40000.0,40000.0,40000.0,40000.0,40000.0
+103,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Fourth year (optional),Supply totals,,,,,
+104,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Fourth year (optional),Demand totals,,,,,
+105,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Fifth year (optional),Supply totals,,,,,
+106,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Fifth year (optional),Demand totals,,,,,
+107,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Sixth year (optional),Demand totals,,,,,
+108,546,Chino Basin Desalter Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,474,Sixth year (optional),Supply totals,,,,,
+109,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,First year,Demand totals,163690.0,170360.0,177630.0,185030.0,191020.0
+110,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,First year,Supply totals,191000.0,198500.0,206400.0,208200.0,208500.0
+111,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Sixth year (optional),Demand totals,,,,,
+112,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Sixth year (optional),Supply totals,,,,,
+113,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Fifth year (optional),Demand totals,,,,,
+114,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Second year,Supply totals,164100.0,170500.0,177630.0,185030.0,191020.0
+115,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Fourth year (optional),Demand totals,,,,,
+116,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Fourth year (optional),Supply totals,,,,,
+117,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Third year,Demand totals,163690.0,170360.0,177630.0,185030.0,191020.0
+118,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Third year,Supply totals,163690.0,170360.0,177630.0,185030.0,191020.0
+119,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Second year,Demand totals,163690.0,170360.0,177630.0,185030.0,191020.0
+120,613,Contra Costa Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,837,Fifth year (optional),Supply totals,,,,,
+121,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Second year,Supply totals,4948.0,5228.0,5508.0,5788.0,6068.0
+122,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Second year,Demand totals,4948.0,5228.0,5508.0,5788.0,6068.0
+123,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Third year,Supply totals,4948.0,5228.0,5508.0,5788.0,6068.0
+124,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Third year,Demand totals,4948.0,5228.0,5508.0,5788.0,6068.0
+125,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Fourth year (optional),Supply totals,,,,,
+126,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,First year,Demand totals,4948.0,5228.0,5508.0,5788.0,6068.0
+127,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Fifth year (optional),Supply totals,,,,,
+128,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Fifth year (optional),Demand totals,,,,,
+129,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Sixth year (optional),Supply totals,,,,,
+130,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Sixth year (optional),Demand totals,,,,,
+131,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,First year,Supply totals,4948.0,5228.0,5508.0,5788.0,6068.0
+132,785,East Orange County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2195,Fourth year (optional),Demand totals,,,,,
+133,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,First year,Supply totals,58500.0,66200.0,70700.0,75200.0,79300.0
+134,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,First year,Demand totals,58500.0,66200.0,70700.0,75200.0,79300.0
+135,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Second year,Supply totals,48500.0,54700.0,58200.0,61700.0,64900.0
+136,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Second year,Demand totals,48500.0,54700.0,58200.0,61700.0,64900.0
+137,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Third year,Supply totals,52000.0,57400.0,61100.0,64600.0,68000.0
+138,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Third year,Demand totals,52000.0,57400.0,61100.0,64600.0,68000.0
+139,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Fourth year (optional),Supply totals,,,,,
+140,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Fourth year (optional),Demand totals,,,,,
+141,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Fifth year (optional),Supply totals,,,,,
+142,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Fifth year (optional),Demand totals,,,,,
+143,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Sixth year (optional),Demand totals,,,,,
+144,794,Eastern Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,783,Sixth year (optional),Supply totals,,,,,
+145,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Sixth year (optional),Demand totals,,,,,
+146,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Sixth year (optional),Supply totals,,,,,
+147,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Fifth year (optional),Demand totals,,,,,
+148,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Fifth year (optional),Supply totals,,,,,
+149,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Fourth year (optional),Demand totals,,,,,
+150,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,First year,Demand totals,7292.0,7753.0,8010.0,8262.0,8538.0
+151,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Third year,Demand totals,8488.0,9025.0,9324.0,9618.0,9939.0
+152,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Third year,Supply totals,8488.0,9025.0,9324.0,9618.0,9939.0
+153,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Second year,Demand totals,8068.0,8578.0,8862.0,9142.0,9447.0
+154,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Second year,Supply totals,8068.0,8578.0,8862.0,9142.0,9447.0
+155,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,First year,Supply totals,7292.0,7753.0,8010.0,8262.0,8538.0
+156,909,Foothill Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,457,Fourth year (optional),Supply totals,,,,,
+157,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Sixth year (optional),Demand totals,,,,,
+158,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Sixth year (optional),Supply totals,,,,,
+159,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Fifth year (optional),Demand totals,,,,,
+160,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Fifth year (optional),Supply totals,,,,,
+161,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Fourth year (optional),Demand totals,,,,,
+162,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,First year,Supply totals,84000.0,84000.0,84000.0,84000.0,
+163,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Third year,Demand totals,22145.0,33895.0,45581.0,57290.0,
+164,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Third year,Supply totals,84000.0,84000.0,84000.0,84000.0,
+165,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Second year,Demand totals,22145.0,33895.0,45581.0,57290.0,
+166,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Second year,Supply totals,84000.0,84000.0,84000.0,84000.0,
+167,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,First year,Demand totals,22145.0,33895.0,45581.0,57290.0,
+168,1209,Humboldt Bay Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,434,Fourth year (optional),Supply totals,,,,,
+169,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Sixth year (optional),Demand totals,,,,,
+170,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Sixth year (optional),Supply totals,,,,,
+171,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Fifth year (optional),Demand totals,,,,,
+172,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Fifth year (optional),Supply totals,,,,,
+173,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Fourth year (optional),Demand totals,,,,,
+174,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Fourth year (optional),Supply totals,,,,,
+175,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Third year,Demand totals,214786.0,232678.0,252409.0,267414.9519,294642.4274
+176,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Third year,Supply totals,270524.0,278541.0,283814.0,267414.9519,294642.4274
+177,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Second year,Demand totals,214786.0,232678.0,252409.0,267414.9519,294642.4274
+178,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,Second year,Supply totals,270524.0,278541.0,283814.0,267414.9519,294642.4274
+179,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,First year,Demand totals,214786.0,232678.0,252409.0,267414.9519,294642.4274
+180,1239,Inland Empire Utilities Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,524,First year,Supply totals,270524.0,278541.0,283814.0,267414.9519,294642.4274
+181,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Sixth year (optional),Demand totals,,,,,
+182,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Sixth year (optional),Supply totals,,,,,
+183,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Fifth year (optional),Demand totals,,,,,
+184,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Fifth year (optional),Supply totals,,,,,
+185,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Fourth year (optional),Demand totals,61390.0,62575.0,64075.0,65600.0,65600.0
+186,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,First year,Supply totals,113438.0,113438.0,113438.0,113438.0,113438.0
+187,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Third year,Demand totals,61390.0,62575.0,64075.0,65600.0,65600.0
+188,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Third year,Supply totals,84176.0,84176.0,84176.0,84176.0,84176.0
+189,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Second year,Demand totals,61390.0,62575.0,64075.0,65600.0,65600.0
+190,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Second year,Supply totals,92782.0,92782.0,92782.0,92782.0,92782.0
+191,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,First year,Demand totals,61390.0,62575.0,64075.0,65600.0,65600.0
+192,1288,Kern County Water Agency Improvement District No 4,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,501,Fourth year (optional),Supply totals,79012.0,79012.0,79012.0,79012.0,79012.0
+193,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Sixth year (optional),Supply totals,,,,,
+194,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Fifth year (optional),Demand totals,,,,,
+195,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Fifth year (optional),Supply totals,,,,,
+196,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Fourth year (optional),Demand totals,,,,,
+197,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Fourth year (optional),Supply totals,,,,,
+198,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Sixth year (optional),Demand totals,,,,,
+199,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Third year,Supply totals,2146000.0,2234000.0,2394000.0,2487000.0,2546000.0
+200,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Second year,Demand totals,2001000.0,2118000.0,2171000.0,2216000.0,2258000.0
+201,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Second year,Supply totals,2146000.0,2234000.0,2394000.0,2487000.0,2546000.0
+202,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,First year,Demand totals,2001000.0,2118000.0,2171000.0,2216000.0,2258000.0
+203,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,First year,Supply totals,2146000.0,2234000.0,2394000.0,2487000.0,2546000.0
+204,1599,Metropolitan Water District Of Southern California,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,314,Third year,Demand totals,2001000.0,2118000.0,2171000.0,2216000.0,2258000.0
+205,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,First year,Demand totals,148366.0,153186.0,159079.0,165164.0,170700.0
+206,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Second year,Supply totals,148366.0,153186.0,159079.0,165164.0,170700.0
+207,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Second year,Demand totals,148366.0,153186.0,159079.0,165164.0,170700.0
+208,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Third year,Supply totals,148366.0,153186.0,159079.0,165164.0,170700.0
+209,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Third year,Demand totals,148366.0,153186.0,159079.0,165164.0,170700.0
+210,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Fourth year (optional),Supply totals,,,,,
+211,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Fourth year (optional),Demand totals,,,,,
+212,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Fifth year (optional),Supply totals,,,,,
+213,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Fifth year (optional),Demand totals,,,,,
+214,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Sixth year (optional),Supply totals,,,,,
+215,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,First year,Supply totals,148366.0,153186.0,159079.0,165164.0,170700.0
+216,1635,Mojave Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,589,Sixth year (optional),Demand totals,,,,,
+217,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,First year,Demand totals,22650.0,22650.0,22650.0,22650.0,22650.0
+218,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,First year,Supply totals,22650.0,22650.0,22650.0,22650.0,22650.0
+219,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Second year,Supply totals,22650.0,22650.0,22650.0,22650.0,22650.0
+220,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Second year,Demand totals,22650.0,22650.0,22650.0,22650.0,22650.0
+221,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Third year,Supply totals,22650.0,22650.0,22650.0,22650.0,22650.0
+222,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Third year,Demand totals,22650.0,22650.0,22650.0,22650.0,22650.0
+223,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Fourth year (optional),Supply totals,,,,,
+224,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Fourth year (optional),Demand totals,,,,,
+225,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Fifth year (optional),Supply totals,,,,,
+226,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Fifth year (optional),Demand totals,,,,,
+227,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Sixth year (optional),Supply totals,,,,,
+228,1642,Monte Vista Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,567,Sixth year (optional),Demand totals,,,,,
+229,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Sixth year (optional),Demand totals,,,,,
+230,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Sixth year (optional),Supply totals,,,,,
+231,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Fifth year (optional),Demand totals,,,,,
+232,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Fifth year (optional),Supply totals,,,,,
+233,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Fourth year (optional),Demand totals,,,,,
+234,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,First year,Supply totals,213101.0,225215.0,220921.0,216374.0,215549.0
+235,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Third year,Demand totals,0.0,225215.0,220921.0,216374.0,215549.0
+236,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Third year,Supply totals,0.0,225215.0,220921.0,216374.0,215549.0
+237,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Second year,Demand totals,0.0,225215.0,220921.0,216374.0,215549.0
+238,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Second year,Supply totals,0.0,225215.0,220921.0,216374.0,215549.0
+239,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,First year,Demand totals,213101.0,225215.0,220921.0,216374.0,215549.0
+240,1684,Municipal Water District Of Orange County (MWDOC),Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,359,Fourth year (optional),Supply totals,,,,,
+241,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Sixth year (optional),Demand totals,,,,,
+242,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Sixth year (optional),Supply totals,,,,,
+243,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Fifth year (optional),Demand totals,,,,,
+244,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Fifth year (optional),Supply totals,,,,,
+245,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Fourth year (optional),Demand totals,7953.0,8350.0,8768.0,9206.0,
+246,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,First year,Supply totals,15000.0,15000.0,15000.0,15000.0,
+247,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Third year,Demand totals,7953.0,8350.0,8768.0,9206.0,
+248,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Third year,Supply totals,15000.0,15000.0,15000.0,15000.0,
+249,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Second year,Demand totals,7953.0,8350.0,8768.0,9206.0,
+250,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Second year,Supply totals,15000.0,15000.0,15000.0,15000.0,
+251,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,First year,Demand totals,7953.0,8350.0,8768.0,9206.0,
+252,1749,North Of The River Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,843,Fourth year (optional),Supply totals,15000.0,15000.0,15000.0,15000.0,
+253,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,First year,Demand totals,142335.0,152651.0,165272.0,178971.0,200562.0
+254,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Second year,Supply totals,204500.0,231000.0,233500.0,235500.0,236500.0
+255,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Second year,Demand totals,142335.0,152651.0,165272.0,178971.0,200562.0
+256,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Third year,Supply totals,204500.0,231000.0,233500.0,235500.0,236500.0
+257,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Third year,Demand totals,142335.0,152651.0,165272.0,178971.0,200562.0
+258,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,First year,Supply totals,204500.0,231000.0,233500.0,235500.0,236500.0
+259,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Fourth year (optional),Demand totals,,,,,
+260,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Fifth year (optional),Supply totals,,,,,
+261,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Fifth year (optional),Demand totals,,,,,
+262,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Sixth year (optional),Supply totals,,,,,
+263,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Sixth year (optional),Demand totals,,,,,
+264,1927,Placer County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2090,Fourth year (optional),Supply totals,,,,,
+265,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,First year,Supply totals,4979.0,4979.0,4979.0,4979.0,4979.0
+266,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,First year,Demand totals,4624.0,4625.0,4626.0,4627.0,4628.0
+267,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Second year,Supply totals,4702.0,4702.0,4702.0,4702.0,4702.0
+268,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Second year,Demand totals,4624.0,4625.0,4626.0,4627.0,4628.0
+269,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Third year,Supply totals,4426.0,4426.0,4426.0,4426.0,4426.0
+270,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Third year,Demand totals,4624.0,4625.0,4626.0,4627.0,4628.0
+271,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Fourth year (optional),Supply totals,,,,,
+272,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Fourth year (optional),Demand totals,,,,,
+273,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Fifth year (optional),Supply totals,,,,,
+274,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Fifth year (optional),Demand totals,,,,,
+275,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Sixth year (optional),Demand totals,,,,,
+276,1954,Port Hueneme Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2087,Sixth year (optional),Supply totals,,,,,
+277,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Sixth year (optional),Demand totals,,,,,
+278,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Sixth year (optional),Supply totals,,,,,
+279,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,First year,Supply totals,17695.0,24824.0,35693.0,35693.0,35693.0
+280,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,First year,Demand totals,17695.0,24824.0,35693.0,35693.0,35693.0
+281,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Second year,Supply totals,17695.0,24824.0,35693.0,35693.0,35693.0
+282,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Second year,Demand totals,17695.0,24824.0,35693.0,35693.0,35693.0
+283,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Third year,Supply totals,17695.0,24824.0,35693.0,35693.0,35693.0
+284,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Third year,Demand totals,17695.0,24824.0,35693.0,35693.0,35693.0
+285,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Fourth year (optional),Supply totals,,,,,
+286,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Fourth year (optional),Demand totals,,,,,
+287,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Fifth year (optional),Supply totals,,,,,
+288,2130,Sacramento  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,326,Fifth year (optional),Demand totals,,,,,
+289,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Sixth year (optional),Demand totals,,,,,
+290,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,First year,Demand totals,4120.0,4826.0,5733.0,6233.0,6769.0
+291,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Second year,Supply totals,5000.0,5000.0,6000.0,7000.0,7000.0
+292,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Second year,Demand totals,4120.0,4826.0,5733.0,6233.0,6769.0
+293,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Third year,Supply totals,5000.0,5000.0,6000.0,7000.0,7000.0
+294,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,First year,Supply totals,5000.0,5000.0,6000.0,7000.0,7000.0
+295,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Fourth year (optional),Supply totals,,,,,
+296,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Fourth year (optional),Demand totals,,,,,
+297,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Fifth year (optional),Supply totals,,,,,
+298,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Fifth year (optional),Demand totals,,,,,
+299,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Sixth year (optional),Supply totals,,,,,
+300,2132,Sacramento County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,414,Third year,Demand totals,4120.0,4826.0,5733.0,6233.0,6769.0
+301,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,First year,Supply totals,9819.0,9819.0,9819.0,9819.0,
+302,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Sixth year (optional),Demand totals,,,,,
+303,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Sixth year (optional),Supply totals,,,,,
+304,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Fifth year (optional),Demand totals,,,,,
+305,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Fifth year (optional),Supply totals,,,,,
+306,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Fourth year (optional),Demand totals,,,,,
+307,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Fourth year (optional),Supply totals,,,,,
+308,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Third year,Demand totals,9819.0,9819.0,9819.0,9819.0,
+309,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Third year,Supply totals,9819.0,9819.0,9819.0,9819.0,
+310,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Second year,Demand totals,9819.0,9819.0,9819.0,9819.0,
+311,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,Second year,Supply totals,9819.0,9819.0,9819.0,9819.0,
+312,2146,San Antonio Water Company,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,532,First year,Demand totals,9819.0,9819.0,9819.0,9819.0,
+313,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,First year,Supply totals,5950.0,6497.0,6497.0,6497.0,
+314,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Sixth year (optional),Demand totals,,,,,
+315,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,First year,Demand totals,5950.0,6497.0,6497.0,6497.0,
+316,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Second year,Supply totals,4125.0,4125.0,4125.0,5124.0,
+317,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Second year,Demand totals,4125.0,4125.0,4125.0,5124.0,
+318,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Third year,Supply totals,4125.0,4125.0,4125.0,5124.0,
+319,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Third year,Demand totals,4125.0,4125.0,4125.0,5124.0,
+320,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Fourth year (optional),Supply totals,,,,,
+321,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Fourth year (optional),Demand totals,,,,,
+322,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Fifth year (optional),Supply totals,,,,,
+323,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Fifth year (optional),Demand totals,,,,,
+324,2149,San Benito County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,791,Sixth year (optional),Supply totals,,,,,
+325,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Sixth year (optional),Demand totals,,,,,
+326,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,First year,Demand totals,44107.0,44888.0,45258.0,46002.0,45358.0
+327,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Second year,Supply totals,44107.0,44888.0,45258.0,46002.0,45358.0
+328,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Second year,Demand totals,44107.0,44888.0,45258.0,46002.0,45358.0
+329,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Third year,Supply totals,44107.0,44888.0,45258.0,46002.0,45358.0
+330,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,First year,Supply totals,44107.0,44888.0,45258.0,46002.0,45358.0
+331,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Fourth year (optional),Supply totals,,,,,
+332,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Fourth year (optional),Demand totals,,,,,
+333,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Fifth year (optional),Supply totals,,,,,
+334,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Fifth year (optional),Demand totals,,,,,
+335,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Sixth year (optional),Supply totals,,,,,
+336,2156,San Bernardino Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1145,Third year,Demand totals,44107.0,44888.0,45258.0,46002.0,45358.0
+337,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Fourth year (optional),Demand totals,,,,,
+338,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Fourth year (optional),Supply totals,,,,,
+339,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Third year,Demand totals,19655.0,21812.0,23147.0,23490.0,23559.0
+340,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Third year,Supply totals,19655.0,21812.0,23147.0,23490.0,23559.0
+341,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Second year,Demand totals,19084.0,21153.0,22433.0,22761.0,22828.0
+342,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Second year,Supply totals,19084.0,21153.0,22433.0,22761.0,22828.0
+343,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,First year,Demand totals,19973.0,22180.0,23546.0,23897.0,23968.0
+344,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,First year,Supply totals,19973.0,22180.0,23546.0,23897.0,23968.0
+345,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Sixth year (optional),Demand totals,,,,,
+346,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Sixth year (optional),Supply totals,,,,,
+347,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Fifth year (optional),Demand totals,,,,,
+348,2160,San Diego  City Of,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,487,Fifth year (optional),Supply totals,,,,,
+349,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,First year,Demand totals,640932.0,699895.0,728330.0,749030.0,
+350,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Second year,Supply totals,677395.0,706894.0,720132.0,718564.0,
+351,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Second year,Demand totals,647342.0,706894.0,735613.0,756521.0,
+352,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Third year,Supply totals,653815.0,684649.0,683539.0,682327.0,
+353,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Third year,Demand totals,653815.0,713963.0,742969.0,764086.0,
+354,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Fifth year (optional),Supply totals,,,,,
+355,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Fourth year (optional),Demand totals,,,,,
+356,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,First year,Supply totals,718652.0,722741.0,728330.0,749030.0,
+357,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Sixth year (optional),Demand totals,,,,,
+358,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Sixth year (optional),Supply totals,,,,,
+359,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Fifth year (optional),Demand totals,,,,,
+360,2161,San Diego County Water Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,439,Fourth year (optional),Supply totals,,,,,
+361,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,First year,Supply totals,171470.0,171470.0,171470.0,171470.0,171470.0
+362,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Sixth year (optional),Demand totals,,,,,
+363,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Sixth year (optional),Supply totals,,,,,
+364,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Fifth year (optional),Demand totals,,,,,
+365,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Fifth year (optional),Supply totals,,,,,
+366,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,First year,Demand totals,206640.0,206640.0,206640.0,206640.0,206640.0
+367,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Fourth year (optional),Supply totals,,,,,
+368,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Fourth year (optional),Demand totals,,,,,
+369,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Second year,Supply totals,148960.0,148960.0,148960.0,148960.0,148960.0
+370,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Second year,Demand totals,206640.0,206640.0,206640.0,206640.0,206640.0
+371,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Third year,Supply totals,148960.0,148960.0,148960.0,148960.0,148960.0
+372,2164,San Francisco Public Utilities Commision,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,808,Third year,Demand totals,206640.0,206640.0,206640.0,206640.0,206640.0
+373,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Third year,Demand totals,13565.0,14049.0,15249.0,16485.0,17766.0
+374,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Fourth year (optional),Supply totals,,,,,
+375,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Fourth year (optional),Demand totals,,,,,
+376,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Fifth year (optional),Supply totals,,,,,
+377,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Fifth year (optional),Demand totals,,,,,
+378,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,First year,Supply totals,8640.0,8640.0,8640.0,8640.0,8640.0
+379,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Sixth year (optional),Demand totals,,,,,
+380,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Third year,Supply totals,8640.0,8640.0,8640.0,8640.0,8640.0
+381,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Second year,Demand totals,13879.0,14386.0,15625.0,16903.0,18225.0
+382,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Second year,Supply totals,8640.0,8640.0,8640.0,8640.0,8640.0
+383,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,First year,Demand totals,13898.0,14409.0,15657.0,16943.0,18274.0
+384,3994,San Gabriel Valley Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,534,Sixth year (optional),Supply totals,,,,,
+385,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Third year,Supply totals,7200.0,7900.0,9200.0,10500.0,11600.0
+386,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Third year,Demand totals,3200.0,5000.0,7300.0,9600.0,11500.0
+387,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Fourth year (optional),Supply totals,7200.0,7900.0,9200.0,10500.0,11600.0
+388,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Fourth year (optional),Demand totals,3200.0,5000.0,7300.0,9600.0,11500.0
+389,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Fifth year (optional),Supply totals,,,,,
+390,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Fifth year (optional),Demand totals,,,,,
+391,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Sixth year (optional),Demand totals,,,,,
+392,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Sixth year (optional),Supply totals,,,,,
+393,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,First year,Supply totals,7200.0,7900.0,9200.0,10500.0,11600.0
+394,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,First year,Demand totals,3200.0,5000.0,7300.0,9600.0,11500.0
+395,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Second year,Supply totals,7200.0,7900.0,9200.0,10500.0,11600.0
+396,2168,San Gorgonio Pass Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,933,Second year,Demand totals,3200.0,5000.0,7300.0,9600.0,11500.0
+397,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Second year,Supply totals,54200.0,54200.0,54200.0,54200.0,54200.0
+398,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Second year,Demand totals,41497.0,42932.0,44305.0,45727.0,47166.0
+399,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Third year,Supply totals,54200.0,54200.0,54200.0,54200.0,54200.0
+400,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Third year,Demand totals,41497.0,42932.0,44305.0,45727.0,47166.0
+401,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Fourth year (optional),Supply totals,,,,,
+402,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,First year,Demand totals,41497.0,42932.0,44305.0,45727.0,47166.0
+403,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Fifth year (optional),Supply totals,,,,,
+404,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,First year,Supply totals,54200.0,54200.0,54200.0,54200.0,54200.0
+405,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Sixth year (optional),Demand totals,,,,,
+406,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Sixth year (optional),Supply totals,,,,,
+407,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Fifth year (optional),Demand totals,,,,,
+408,2179,San Juan Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1359,Fourth year (optional),Demand totals,,,,,
+409,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Fourth year (optional),Demand totals,,,,,
+410,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Fourth year (optional),Supply totals,,,,,
+411,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Third year,Demand totals,8730.0,8730.0,8730.0,8730.0,8730.0
+412,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Third year,Supply totals,8730.0,8730.0,8730.0,8730.0,8730.0
+413,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Second year,Demand totals,8730.0,8730.0,8730.0,8730.0,8730.0
+414,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Second year,Supply totals,8730.0,8730.0,8730.0,8730.0,8730.0
+415,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,First year,Demand totals,8730.0,8730.0,8730.0,8730.0,8730.0
+416,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,First year,Supply totals,8730.0,8730.0,8730.0,8730.0,8730.0
+417,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Sixth year (optional),Demand totals,,,,,
+418,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Sixth year (optional),Supply totals,,,,,
+419,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Fifth year (optional),Demand totals,,,,,
+420,2184,San Luis Obispo County Flood Control And Water Conservation,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,542,Fifth year (optional),Supply totals,,,,,
+421,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Sixth year (optional),Demand totals,,,,,
+422,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Sixth year (optional),Supply totals,,,,,
+423,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Fifth year (optional),Demand totals,,,,,
+424,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Fifth year (optional),Supply totals,,,,,
+425,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Fourth year (optional),Demand totals,,,,,
+426,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,First year,Supply totals,282600.0,296200.0,309900.0,325400.0,333800.0
+427,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Third year,Demand totals,280900.0,294400.0,308000.0,324000.0,333200.0
+428,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Third year,Supply totals,172500.0,239700.0,212100.0,179700.0,160600.0
+429,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Second year,Demand totals,284100.0,297400.0,311100.0,326500.0,334900.0
+430,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Second year,Supply totals,249200.0,301100.0,285800.0,269700.0,260400.0
+431,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,First year,Demand totals,277400.0,290800.0,304300.0,319600.0,328000.0
+432,2211,Santa Clara Valley Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,427,Fourth year (optional),Supply totals,,,,,
+433,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Sixth year (optional),Demand totals,,,,,
+434,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Sixth year (optional),Supply totals,,,,,
+435,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Fifth year (optional),Demand totals,,,,,
+436,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Fifth year (optional),Supply totals,,,,,
+437,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Fourth year (optional),Demand totals,,,,,
+438,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Fourth year (optional),Supply totals,,,,,
+439,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Third year,Supply totals,6747.0,6747.0,6747.0,6747.0,6747.0
+440,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Second year,Demand totals,4280.0,4495.0,4517.0,4516.0,4520.0
+441,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Second year,Supply totals,9819.0,9819.0,9819.0,9819.0,9819.0
+442,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,First year,Demand totals,4590.0,4828.0,4852.0,4851.0,4855.0
+443,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,First year,Supply totals,10203.0,10203.0,10203.0,10203.0,10203.0
+444,2251,Serrano Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1163,Third year,Demand totals,4280.0,4495.0,4517.0,4516.0,4520.0
+445,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Fourth year (optional),Demand totals,,,,,
+446,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Fifth year (optional),Supply totals,,,,,
+447,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Fifth year (optional),Demand totals,,,,,
+448,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Sixth year (optional),Supply totals,,,,,
+449,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Sixth year (optional),Demand totals,,,,,
+450,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,First year,Supply totals,196775.0,196775.0,196775.0,196775.0,
+451,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Third year,Demand totals,254706.0,254706.0,254706.0,254706.0,
+452,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Third year,Supply totals,196775.0,196775.0,196775.0,196775.0,
+453,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Second year,Demand totals,254706.0,254706.0,254706.0,254706.0,
+454,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Second year,Supply totals,196775.0,196775.0,196775.0,196775.0,
+455,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,First year,Demand totals,254706.0,254706.0,254706.0,254706.0,
+456,2322,Solano County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,706,Fourth year (optional),Supply totals,,,,,
+457,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Fourth year (optional),Demand totals,,,,,
+458,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Fifth year (optional),Supply totals,,,,,
+459,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Fifth year (optional),Demand totals,,,,,
+460,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Sixth year (optional),Supply totals,,,,,
+461,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Sixth year (optional),Demand totals,,,,,
+462,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Fourth year (optional),Supply totals,,,,,
+463,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,First year,Supply totals,66260.0,70309.0,73011.0,75117.0,75987.0
+464,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,First year,Demand totals,66260.0,70309.0,73011.0,75117.0,75987.0
+465,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Second year,Supply totals,66260.0,70309.0,73011.0,75117.0,75987.0
+466,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Second year,Demand totals,66260.0,70309.0,73011.0,75117.0,75987.0
+467,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Third year,Supply totals,66260.0,70309.0,73011.0,75117.0,75987.0
+468,2328,Sonoma County Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,841,Third year,Demand totals,66260.0,70309.0,73011.0,75117.0,75987.0
+469,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Fourth year (optional),Demand totals,,,,,
+470,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Fourth year (optional),Supply totals,,,,,
+471,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Third year,Demand totals,34172.0,44334.0,51760.0,55243.0,60121.0
+472,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Third year,Supply totals,252700.0,252700.0,252700.0,252700.0,252700.0
+473,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Second year,Demand totals,34172.0,44334.0,51760.0,55243.0,60121.0
+474,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Fifth year (optional),Supply totals,,,,,
+475,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Sixth year (optional),Supply totals,,,,,
+476,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Sixth year (optional),Demand totals,,,,,
+477,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,First year,Supply totals,260000.0,260000.0,260000.0,260000.0,260000.0
+478,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,First year,Demand totals,34172.0,44334.0,51760.0,55243.0,60121.0
+479,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Second year,Supply totals,267500.0,267500.0,267500.0,267500.0,267500.0
+480,2346,South San Joaquin Irrigation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2059,Fifth year (optional),Demand totals,,,,,
+481,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Sixth year (optional),Demand totals,,,,,
+482,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Sixth year (optional),Supply totals,,,,,
+483,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Fifth year (optional),Demand totals,,,,,
+484,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Fifth year (optional),Supply totals,,,,,
+485,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Fourth year (optional),Demand totals,148599.0,151018.0,153437.0,155857.0,158276.0
+486,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,First year,Supply totals,238599.0,241018.0,243437.0,245857.0,248276.0
+487,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Third year,Demand totals,238599.0,241018.0,243437.0,245857.0,248276.0
+488,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Third year,Supply totals,238599.0,241018.0,243437.0,245857.0,248276.0
+489,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Second year,Demand totals,238599.0,241018.0,243437.0,245857.0,248276.0
+490,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Second year,Supply totals,238599.0,241018.0,243437.0,245857.0,248276.0
+491,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,First year,Demand totals,238599.0,241018.0,243437.0,245857.0,248276.0
+492,2382,Stockton East Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,594,Fourth year (optional),Supply totals,148599.0,151018.0,153437.0,155857.0,158276.0
+493,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Sixth year (optional),Demand totals,,,,,
+494,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Sixth year (optional),Supply totals,,,,,
+495,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,First year,Supply totals,7000.0,7000.0,7000.0,7000.0,
+496,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,First year,Demand totals,8050.0,8050.0,7550.0,7550.0,
+497,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Second year,Supply totals,7390.0,7390.0,7390.0,7390.0,
+498,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Second year,Demand totals,8050.0,8050.0,7550.0,7550.0,
+499,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Third year,Supply totals,8930.0,8930.0,8930.0,8930.0,
+500,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Third year,Demand totals,8050.0,8050.0,7550.0,7550.0,
+501,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Fourth year (optional),Supply totals,,,,,
+502,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Fourth year (optional),Demand totals,,,,,
+503,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Fifth year (optional),Supply totals,,,,,
+504,2452,Tehachapi - Cummings County Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,1044,Fifth year (optional),Demand totals,,,,,
+505,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Sixth year (optional),Demand totals,,,,,
+506,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,First year,Demand totals,68830.0,67330.0,68000.0,69360.0,70710.0
+507,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Second year,Supply totals,67450.0,65980.0,66640.0,67970.0,69300.0
+508,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Second year,Demand totals,67450.0,65980.0,66640.0,67970.0,69300.0
+509,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Third year,Supply totals,66100.0,64660.0,65310.0,66610.0,67910.0
+510,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,First year,Supply totals,68830.0,67330.0,68000.0,69360.0,70710.0
+511,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Fourth year (optional),Supply totals,,,,,
+512,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Fourth year (optional),Demand totals,,,,,
+513,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Fifth year (optional),Supply totals,,,,,
+514,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Fifth year (optional),Demand totals,,,,,
+515,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Sixth year (optional),Supply totals,,,,,
+516,2472,Three Valleys Municipal Utility District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,330,Third year,Demand totals,66100.0,64660.0,65310.0,66610.0,67910.0
+517,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,First year,Demand totals,11757.0,11757.0,11757.0,11757.0,11757.0
+518,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Second year,Supply totals,11757.0,11757.0,11757.0,11757.0,11757.0
+519,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Second year,Demand totals,11757.0,11757.0,11757.0,11757.0,11757.0
+520,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Third year,Supply totals,11757.0,11757.0,11757.0,11757.0,11757.0
+521,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Third year,Demand totals,11757.0,11757.0,11757.0,11757.0,11757.0
+522,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,First year,Supply totals,11757.0,11757.0,11757.0,11757.0,11757.0
+523,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Fourth year (optional),Demand totals,,,,,
+524,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Fifth year (optional),Supply totals,,,,,
+525,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Fifth year (optional),Demand totals,,,,,
+526,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Sixth year (optional),Supply totals,,,,,
+527,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Sixth year (optional),Demand totals,,,,,
+528,2540,United Water Conservation District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Under Review,,925,Fourth year (optional),Supply totals,,,,,
+529,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,First year,Supply totals,70893.0,74759.0,74339.0,74429.0,74470.0
+530,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,First year,Demand totals,60893.0,64759.0,64339.0,64429.0,64470.0
+531,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Second year,Supply totals,70893.0,74759.0,74339.0,74429.0,74470.0
+532,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Second year,Demand totals,60893.0,64759.0,64339.0,64429.0,64470.0
+533,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Third year,Supply totals,70893.0,74759.0,74339.0,74429.0,74470.0
+534,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Third year,Demand totals,60893.0,64759.0,64339.0,64429.0,64470.0
+535,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Fourth year (optional),Supply totals,,,,,
+536,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Fourth year (optional),Demand totals,,,,,
+537,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Fifth year (optional),Supply totals,,,,,
+538,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Fifth year (optional),Demand totals,,,,,
+539,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Sixth year (optional),Demand totals,,,,,
+540,2543,Upper San Gabriel Valley Municipal Water,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,388,Sixth year (optional),Supply totals,,,,,
+541,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Fourth year (optional),Demand totals,,,,,
+542,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Third year,Demand totals,33436.92324,33763.664860000004,34090.40647,34417.148089999995,34743.88971
+543,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Third year,Supply totals,33436.92324,33763.664860000004,34090.40647,34417.148089999995,34743.88971
+544,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Second year,Demand totals,33436.92324,33763.664860000004,34090.40647,34417.148089999995,34743.88971
+545,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Second year,Supply totals,33436.92324,33763.664860000004,34090.40647,34417.148089999995,34743.88971
+546,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Fifth year (optional),Supply totals,,,,,
+547,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,First year,Supply totals,33436.92324,33763.664860000004,34090.40647,34417.148089999995,34743.88971
+548,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Fourth year (optional),Supply totals,,,,,
+549,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Sixth year (optional),Demand totals,,,,,
+550,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Sixth year (optional),Supply totals,,,,,
+551,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,Fifth year (optional),Demand totals,,,,,
+552,2667,Water Facilities Authority,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2147,First year,Demand totals,33436.92324,33763.664860000004,34090.40647,34417.148089999995,34743.88971
+553,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,First year,Supply totals,124894.0,151503.0,151523.0,151775.0,151332.0
+554,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,First year,Demand totals,145236.0,151503.0,151523.0,151775.0,151332.0
+555,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Second year,Supply totals,124894.0,151503.0,151523.0,151775.0,151332.0
+556,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Second year,Demand totals,145236.0,151503.0,151523.0,151775.0,151332.0
+557,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Third year,Supply totals,124894.0,151503.0,151523.0,151775.0,151332.0
+558,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Third year,Demand totals,145236.0,151503.0,151523.0,151775.0,151332.0
+559,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Fourth year (optional),Supply totals,,,,,
+560,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Fourth year (optional),Demand totals,,,,,
+561,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Fifth year (optional),Supply totals,,,,,
+562,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Fifth year (optional),Demand totals,,,,,
+563,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Sixth year (optional),Demand totals,,,,,
+564,2675,West Basin Municipal Water District,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,811,Sixth year (optional),Supply totals,,,,,
+565,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Sixth year (optional),Demand totals,,,,,
+566,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Sixth year (optional),Supply totals,,,,,
+567,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,First year,Supply totals,152491.0,159389.0,169372.0,178155.0,184095.0
+568,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,First year,Demand totals,110787.0,114039.0,123515.0,122895.0,132999.0
+569,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Second year,Supply totals,152491.0,159389.0,169372.0,178155.0,184095.0
+570,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Second year,Demand totals,110787.0,114039.0,123515.0,122895.0,132999.0
+571,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Third year,Supply totals,152491.0,159389.0,169372.0,178155.0,184095.0
+572,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Third year,Demand totals,110787.0,114039.0,123515.0,122895.0,132999.0
+573,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Fourth year (optional),Supply totals,,,,,
+574,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Fourth year (optional),Demand totals,,,,,
+575,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Fifth year (optional),Supply totals,,,,,
+576,2697,Western Municipal Water District Of Riverside,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,2167,Fifth year (optional),Demand totals,,,,,
+577,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,First year,Demand totals,33603.0,33603.0,33603.0,38093.0,38093.0
+578,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Sixth year (optional),Demand totals,,,,,
+579,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Sixth year (optional),Supply totals,,,,,
+580,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Fifth year (optional),Demand totals,,,,,
+581,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Fifth year (optional),Supply totals,,,,,
+582,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,First year,Supply totals,22692.0,22692.0,22692.0,24718.0,24718.0
+583,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Fourth year (optional),Supply totals,,,,,
+584,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Third year,Demand totals,33603.0,33603.0,33603.0,38093.0,38093.0
+585,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Third year,Supply totals,19930.0,19930.0,19930.0,21587.0,21587.0
+586,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Second year,Demand totals,33603.0,33603.0,33603.0,38093.0,38093.0
+587,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Second year,Supply totals,19654.0,19654.0,19654.0,21274.0,21274.0
+588,4811,Woodland-Davis Clean Water Agency,Table 7-4 Wholesale: Multiple Dry Years Supply and Demand Comparison,Yes,Yes,847,Fourth year (optional),Demand totals,,,,,
